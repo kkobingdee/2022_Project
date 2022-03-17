@@ -1,1 +1,1 @@
-Chipwhisperer Collecting trace code !!
+Chipwhisperer Collecting Trace Codes !!
