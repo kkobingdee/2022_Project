@@ -1,1 +1,1 @@
-hi!
+Chipwhisperer Collecting trace code !!
